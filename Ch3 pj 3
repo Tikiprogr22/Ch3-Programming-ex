@@ -1,0 +1,46 @@
+<!--Developer: LaTysha Turner
+        Start Date: 02/25/2024-->
+        <title>Totally Awesome Stuff</title>
+        <link rel="stylesheet" type="text/css" href="css/my_styles.css"/>
+    </head>
+    <body>
+        <header>
+            <h1>
+                Welcome to Totally Awesome Stuff, LLC
+            </h1>
+        </header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+                <li>
+                    <a href="products.html">Products</a>
+                </li>
+                <li>
+                    <a href="about.html">About Us</a>
+                </li>
+            </ul>
+
+        </nav>
+        <section>
+            <h2>
+                Low-Fat Candy for Goldfish
+            </h2>
+            <figure>
+            <figcaption>
+                Felix likes Goldfish that eats Low-Fat candy!
+            </figcaption>
+            </figure>
+            <picture>
+                <source media="(min-width: 640px)" srcset="images/large_dapper_cat.png"/>
+                <source media="(min-width: 460px)" srcset="images/medium_dapper_cat.png"/>
+                <source media="(min-width: 320px)" srcset="images/small_dapper_cat.png"/>
+                <img src="images/default_cat.png" alt="A picture of a black cat with tan spots and the markings of a mustache on her face"/>
+                </picture>
+        </section>
+        <footer>
+            Copyright &copy; (2024)
+        </footer>
+    </body>
+</html>
