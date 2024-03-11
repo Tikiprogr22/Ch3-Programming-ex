@@ -41,7 +41,7 @@ section img#home_page_img {
     padding: 5px;
     margin: 5px;
     border-style: solid;
-    border-color: rgb (175,175,175) rgb (200,200,200);
+    border-color: rgb(175,175,175) rgb(200,200,200);
     background-color: black;
     border-radius: 20px;
 }
@@ -54,7 +54,7 @@ section h2 {
 section figcaption {
     text-align: center;
     max-width: 870px;
-    font-family: Monaco, Consolas;
+    font-family: Monaco;
 }
 /* Style for the home page title */
 header h1 {
@@ -96,6 +96,19 @@ section table tr:hover {
     border: 2px solid black;
     padding: 5px;
 }
+/* Style for the form background */
 .light-blue-bg {
-    background: lightblue;
+    background-color: rgb(133, 194, 247);
+}
+/* Style for background form */
+section div.about_us {
+	margin-left:220px;
+	border: 1px solid rgb(175,175,175);
+	padding: 10px; 
+	background-color: rgb(240,248,255);
+	border-radius:15px;
+	max-width:600px;
+}
+section div p.bolder{
+	font-weight:bold;
 }
