@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Developer: LaTysha Turner 
+        	Start Date:  02/24/2024 -->
+        <title>Totally Awesome Stuff</title>
+		<link rel="stylesheet" type="text/css" href="css/my_styles.css">
+    </head>
+    <body>
+		<header>
+			<h1>
+    			Welcome to Totally Awesome Stuff, LLC!
+    		</h1>
+		</header>
+		
+		<nav>
+			<ul>
+				<li>
+					<a href="index.html">Home</a>
+				</li>
+				<li>
+					<a href="products.html">Products</a>
+				</li>
+				<li>
+					<a href="about.html">About Us</a>
+				</li>
+				<li>
+					<a href="video.html">Videos</a>
+				</li>
+				<li>
+					<a href="contact_us.html">Contact Us</a>
+				</li>
+			</ul>
+		</nav>
+
+		<section>
+			<div class="about_us">
+				<h2>From humble roots, we grew to be Totally Awesome</h2>
+				<p class="bolder">How It All Started</p>
+				<p>We started this business in 2001 with a group of friends who shared a deep passion for unique and innovative products. It all started in a 
+					small garage where they would gather after work to brainstorm ideas for creating an online 
+					platform where people could discover and purchase the most incredible and unexpected items they could imagine. One fateful evening, as they snacked
+					 on low-fat candy specially made for goldfish, inspiration struck. They envisioned a place where whimsical treats 
+					like these could find a home alongside other amazing finds, leading to the birth of TotallyAwesomeStuff.com.</p>
+				<br/>
+				<p class="bolder">Growing Greater</p>
+				<p>In 2003 we began to gain traction and capture the hearts of online shoppers with its wide array of products, including low-fat candy for goldfish, the team realized 
+					they had tapped into something special. With a commitment to customer satisfaction and a dedication to sourcing the most unique and high-quality items, 
+					the company's growth trajectory skyrocketed. 
+					What started as a passion project among friends quickly transformed 
+					into a thriving business venture, offering an ever-expanding selection of delightful 
+					goodies that catered to every taste and preference.</p>
+				<br/>
+				<p class="bolder">The Catalog</p>
+				<p>The catalog is a treasure trove of extraordinary finds waiting to be discovered, including the charming addition of low-fat candy for goldfish. Our team scours the globe 
+					in search of the most captivating, unusual, and cutting-edge products to 
+					include in our curated collection. From whimsical gadgets and magical trinkets to 
+					practical tools and stylish accessories, each product is selected with care to ensure that it brings joy and wonder to our customers. Our 
+					catalog is a testament to our commitment to offering a
+					diverse range of products that cater to every individual, including our 
+					delightful low-fat candy treat for goldfish.</p>
+				<br/>
+				<p class="bolder">The Website</p>
+				<p>The TotallyAwesomeStuff.com website is a digital playground where creativity and innovation collide, offering a seamless shopping experience for customers looking 
+					for unique items, such as our popular low-fat candy specially made for goldfish. Designed with the customer in mind, 
+					our website features a user-friendly interface, intuitive navigation, and visually appealing layout. From detailed product descriptions 
+					to easy checkout options, browsing our online aisles is a delightful experience. With secure payment methods and a commitment to customer 
+					satisfaction, shopping for your favorite treats, like our low-fat candy for goldfish, has never been easier at TotallyAwesomeStuff.com.</p>
+			</div>
+		</section>
+
+		<footer>
+			Copyright &copy; 2023 
+		</footer>
+    </body>
+</html>
